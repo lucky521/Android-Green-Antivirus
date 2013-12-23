@@ -1,0 +1,4 @@
+*.pyc
+*.py~
+.class
+.dex
