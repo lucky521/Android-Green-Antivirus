@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">绿色手机杀毒软件</string>
+    <string name="media_dialog">Media preview</string>
+    <string name="dir_info">Folder Information</string>
+    <string name="manager_act">Phone Management</string>
+    <string name="ip_address">http://54.251.177.2:8000/</string>
+</resources>

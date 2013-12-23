@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+ 
+ <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+ 	android:orientation="vertical"
+ 	android:layout_width="fill_parent"
+ 	android:layout_height="fill_parent"
+ 	android:background="@color/darkGray"
+ 	android:padding="6dip">
+ 	<ImageView
+ 		android:src="@drawable/icon64"
+ 		android:layout_width="wrap_content"
+ 		android:layout_height="wrap_content"
+ 		android:layout_gravity="center"
+ 		android:paddingTop="10dip"/>
+ 	<TextView
+ 		android:id="@+id/help_top_label"
+ 		android:layout_width="wrap_content"
+ 		android:layout_height="wrap_content"
+ 		android:layout_gravity="center"
+ 		android:layout_weight="0"
+ 		android:paddingTop="15dip"
+ 		android:textColor="@color/white"/>
+ 	<LinearLayout
+ 		android:orientation="horizontal"
+ 		android:layout_width="fill_parent"
+ 		android:layout_height="fill_parent"
+ 		android:layout_weight="4"
+ 		android:background="@color/darkGray">	
+ 	</LinearLayout>
+ </LinearLayout>
