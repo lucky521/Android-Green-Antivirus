@@ -1,6 +1,5 @@
 # 绿色杀毒软件服务器端
 
-## 数据库
 Edit the setting.py for DATABASE_NAME
 
 文件白名单：id、fileID、status
